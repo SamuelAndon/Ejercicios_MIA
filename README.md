@@ -7,4 +7,4 @@ Prácticas del curso de especialización de Inteligencia Artificial y Big Data -
 ## Resolver o NPC c A*: Figure 3.8 The sequence of tree processing using A* search
 ![A* Datos](./doc/NPC_A2.JPG)
 ![A*](./doc/NPC_A.png)
-![A* Fronteras](./doc/NPC_A3.JPG)
+![A* Fronteras](./doc/NPC_A3.jpg)
